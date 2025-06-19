@@ -71,14 +71,14 @@ Final dataset contains: `title`, `text`, and `label` columns.
 
 ## 📁 Repository Structure
 ```
-├── Google_Code_BiLSTM.ipynb     # Final model notebook
-├── older_model_experiments.ipynb  # ML and ANN/CNN trials
-├── glove.6B.100d.txt             # Pre-trained GloVe vectors
-├── model_saved.h5                # Trained BiLSTM model
-├── tokenizer.pickle              # Tokenizer object
-├── /data                         # Combined dataset CSVs
-├── requirements.txt              # Required packages
-└── README.md                     # Project overview (this file)
+├── Fake_News_Detection_using_BiLSTM.ipynb     # Final model notebook
+├── older_model_experiments.ipynb              # ML and ANN/CNN trials
+├── glove.6B.100d.txt                          # Pre-trained GloVe vectors (Can't upload due to size limitations)
+├── model_saved.h5                             # Trained BiLSTM model (Can't upload due to size limitations)
+├── tokenizer.pickle                           # Tokenizer object
+├── /data                                      # Combined dataset CSVs (Can't upload due to size limitations)
+├── requirements.txt                           # Required packages
+└── README.md                                  # Project overview (this file)
 ```
 
 ---
